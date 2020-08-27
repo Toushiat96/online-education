@@ -1,0 +1,18 @@
+
+
+.information-container{
+
+margin-bottom: 5px;
+border-radius: 5px solid lightgray;
+display: flex;
+
+}
+
+.content{
+
+   margin-right: 30px;
+   margin-left: 50px;
+   margin-bottom: 5px;
+border-radius: 15px solid rgb(211, 211, 211);
+
+}

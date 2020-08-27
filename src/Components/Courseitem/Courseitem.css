@@ -1,0 +1,27 @@
+.course-container{
+display: flex;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-container > div {
+    width: 300px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+ }
+
+.product-container{
+    width: 90%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgreen;
+    text-align: center;
+    margin-bottom: 10px;
+}
+  
+  
